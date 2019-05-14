@@ -13,7 +13,7 @@ const token = "NTc3NjM2NzgxODgxNTU3MDAy.XNn8PQ.ZrebcNbvKi4y8JTjLKK5kIf4YMo";
 
 client.on("ready", () => {
   console.log("Vulnix | Logged in! Server count: ${client.guilds.size}");
-  client.user.setGame(`Support Magic |${prefix}new`);
+  client.user.setGame(`=help | YD Community`);
 });
 
 
